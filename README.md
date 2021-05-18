@@ -1,4 +1,11 @@
-### Hi there 👋
+<h1>Welcome 👋</h1>
+
+Hi, in this profile you can look at my currently projects, old projects, various development and other.
+
+
+<h2>👽 About Me</h2>
+My name is Kirill and i'm beginner front-end developer.
+
 
 <!--
 **daifoll/daifoll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
