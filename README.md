@@ -1,10 +1,14 @@
-<h1>Welcome 👋</h1>
+<h1>Привет! 👋</h1>
 
-Hi, in this profile you can look at my currently projects, old projects, various development and other.
+<h2>Обо мне 👽</h2>
+Меня зовут Кирилл, и я начинающий веб-разработчик, в данном профиле вы можете увидеть текущие проекты, над которыми я работаю, а также законченные проекты, приятного ознакомлпения!
+</br>
 
-
-<h2>👽 About Me</h2>
-My name is Kirill and i'm beginner front-end developer.
+<h2>Связаться со мной:</h2>
+<ul>
+  <li><a href="tel:+79965003886">+7 996 500 38 86</a></li>
+  <li><a href="mailto:kobykhnov.bl@gmail.com">kobykhnov.bl@gmail.com</a></li>
+ </ul>
 
 
 <!--
