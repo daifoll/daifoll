@@ -8,6 +8,7 @@
 <ul>
   <li><a href="tel:+79965003886">+7 996 500 38 86</a></li>
   <li><a href="mailto:kobykhnov.bl@gmail.com">kobykhnov.bl@gmail.com</a></li>
+  <a href='https://t.me/+79965003886'>Я в Telegram</a>
  </ul>
 
 
