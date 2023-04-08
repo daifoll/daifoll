@@ -8,10 +8,13 @@
 </br>
 
 <h2>Связаться со мной:</h2>
-<ul>
-  <li><a href="mailto:kobykhnov.bl@gmail.com" target="_blank">kobykhnov.bl@gmail.com</a></li>
-  <li><a href='https://t.me/+79965003886' target="_blank">Я в Telegram</a></li>
- </ul>
+<a href='https://t.me/+79965003886'>
+  <img src='https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge' alt='Telegram'/>
+</a>
+
+<a href='https://t.me/+79965003886'>
+  <img src='https://img.shields.io/badge/GMail-red?logo=gmail&logoColor=white&style=for-the-badge' alt='Gmail'/>
+</a>
 
 
 <!--
