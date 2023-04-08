@@ -15,8 +15,8 @@
   <img src='https://user-images.githubusercontent.com/54538084/230739975-40483300-9a03-4e18-bdcd-2b1079ee87a9.svg' width='30' height='30'/>
   <img src='https://user-images.githubusercontent.com/54538084/230739998-4c781d32-ed5c-4d3d-9d43-5edcaee59adb.svg' width='30' height='30'/>
   <img src='https://user-images.githubusercontent.com/54538084/230740018-51e287be-ddf6-4479-8ea5-b8ab1c753db3.svg' width='30' height='30'/>
+  <img src='https://user-images.githubusercontent.com/54538084/230740061-caffe05a-75cb-4ff7-b6fd-842e0b931226.svg' width='30' height='30'/>
 </div>
-
 
 ## Связаться со мной:
 <a href='https://t.me/+79965003886'>
