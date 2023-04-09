@@ -15,6 +15,10 @@
   <img src='https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge' alt='Telegram'/>
 </a>
 
+<a href="https://www.linkedin.com/in/kobykhnov">
+  <img src='https://img.shields.io/badge/LinkedIn-0e76a8?logo=linkedin&style=for-the-badge' alt='Gmail'/>
+</a>
+
 <a href="mailto:kobykhnov.bl@gmail.com">
   <img src='https://img.shields.io/badge/EMail-red?logo=gmail&logoColor=white&style=for-the-badge' alt='Gmail'/>
 </a>
