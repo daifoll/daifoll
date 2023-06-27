@@ -8,7 +8,7 @@
 </br>
 
 ## Мой стек:
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,typescript,react,nextjs,tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,typescript,react,vue,nextjs,tailwind)](https://skillicons.dev)
 
 ## Связаться со мной:
 <a href='https://t.me/+79965003886'>
