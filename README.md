@@ -8,13 +8,9 @@
 </br>
 
 ## Мой стек:
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,typescript,react,vue,nextjs,tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,typescript,react,vue,nextjs,tailwind,graphql,postgresql,nodejs,docker)](https://skillicons.dev)
 
 ## Связаться со мной:
-<a href='https://t.me/+79965003886'>
-  <img src='https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge' alt='Telegram'/>
-</a>
-
 <a href="https://www.linkedin.com/in/kobykhnov">
   <img src='https://img.shields.io/badge/LinkedIn-0e76a8?logo=linkedin&style=for-the-badge' alt='Gmail'/>
 </a>
