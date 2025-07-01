@@ -1,11 +1,3 @@
-## Stack:
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,typescript,react,vue,nextjs,tailwind,graphql,postgresql,nodejs,docker)](https://skillicons.dev)
-
-## Contacts:
-<a href="mailto:kobykhnov.bl@gmail.com">
-  <img src='https://img.shields.io/badge/EMail-red?logo=gmail&logoColor=white&style=for-the-badge' alt='Gmail'/>
-</a>
-
 <!--
 **daifoll/daifoll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
